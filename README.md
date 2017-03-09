@@ -28,3 +28,5 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 - [Wasserstein GAN and the Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
 - [Read-through: Wasserstein GAN](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 - [Wasserstein GAN paper](https://arxiv.org/abs/1701.07875)
+- [WGAN1](https://www.facebook.com/groups/675606912596390/permalink/722401081250306/)
+- [WGAN2](https://www.facebook.com/groups/675606912596390/permalink/722898947867186/)
