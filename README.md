@@ -5,6 +5,7 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 - [Image synthesis](#image-sythesis)
   * [neural style transfer](#neural-style)
   * [GANs](#gans)
+  * [WGANs](#wgans)
 
 
 ## image sythesis
@@ -15,7 +16,6 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 - [blurify to avoid local optimization](https://github.com/aizvorski/fastai-2-work/blob/master/neural-style-better-optimizer.ipynb)
 - [experiment starting point neural-style-initialization]( https://gist.github.com/aizvorski/6dee41c61376200014b92ef48480ab15)  
 
-- []()
 
 ### GANs
 - [an intuitive understanding of GANs](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.lp1edlkay)
