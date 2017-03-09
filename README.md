@@ -6,7 +6,7 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
   * [neural style transfer](#neural-style-transfer)
   * [GANs](#gans)
   * [WGANs](#wgans)
-
+  * [AI research](#ai-research)
 
 ## image sythesis
 
@@ -30,3 +30,6 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 - [Wasserstein GAN paper](https://arxiv.org/abs/1701.07875)
 - [WGAN1](https://www.facebook.com/groups/675606912596390/permalink/722401081250306/)
 - [WGAN2](https://www.facebook.com/groups/675606912596390/permalink/722898947867186/)
+
+### AI research
+- [OpenAI paper curation](https://docs.google.com/spreadsheets/d/1xej5Nca2xUUtrZ1GCyPjFMqI9ZgNq_OhgnTxOOMQ2js/edit#gid=404493967)
