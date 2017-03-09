@@ -3,7 +3,7 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 
 # Table of Content
 - [Image synthesis](#image-sythesis)
-  * [neural style transfer](#neural-style)
+  * [neural style transfer](#neural-style-transfer)
   * [GANs](#gans)
   * [WGANs](#wgans)
 
