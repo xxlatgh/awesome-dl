@@ -15,7 +15,8 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 - [An implementation of neural style transfer](https://github.com/MatthewKleinsmith/fast-ai-MOOC/blob/master/neural-style-AR.ipynb)
 - [blurify to avoid local optimization](https://github.com/aizvorski/fastai-2-work/blob/master/neural-style-better-optimizer.ipynb)
 - [experiment starting point neural-style-initialization]( https://gist.github.com/aizvorski/6dee41c61376200014b92ef48480ab15)  
-
+- [experiment with different optimizer](https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b#.k91dey4is)
+- [an implementation of optimizer experiment](https://github.com/slavivanov/Style-Tranfer)
 
 ### GANs
 - [an intuitive understanding of GANs](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.lp1edlkay)
