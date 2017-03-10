@@ -8,10 +8,12 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
   * [WGANs](#wgans)
   * [AI research](#ai-research)
   * [Neural network approaches for NLP / NLU / dialog / chatbots](#neural-network-approaches-for-nlp-nlu-dialog-chatbots)
+  * [General News](#general-news)
 
 ## image sythesis
 
 ### neural style transfer
+- [tiling texture images](http://forums.fast.ai/t/tiling-texture-images/1865)
 - [Neural Style Transfer & Neural Doodles](https://github.com/titu1994/Neural-Style-Transfer)
 - [An implementation of neural style transfer](https://github.com/MatthewKleinsmith/fast-ai-MOOC/blob/master/neural-style-AR.ipynb)
 - [blurify to avoid local optimization](https://github.com/aizvorski/fastai-2-work/blob/master/neural-style-better-optimizer.ipynb)
@@ -38,3 +40,6 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 
 ### Neural network approaches for NLP / NLU / dialog / chatbots
 - [discussions with links to papers](http://forums.fast.ai/t/neural-network-approaches-for-nlp-nlu-dialog-chatbots/1802)
+
+### General news
+- [abundance 360](http://www.diamandis.com/blog/archive)
