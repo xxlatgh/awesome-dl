@@ -7,6 +7,7 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
   * [GANs](#gans)
   * [WGANs](#wgans)
   * [AI research](#ai-research)
+  * [Neural network approaches for NLP / NLU / dialog / chatbots](#neural-network-approaches-for-nlp-nlu-dialog-chatbots)
 
 ## image sythesis
 
@@ -34,3 +35,6 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 
 ### AI research
 - [OpenAI paper curation](https://docs.google.com/spreadsheets/d/1xej5Nca2xUUtrZ1GCyPjFMqI9ZgNq_OhgnTxOOMQ2js/edit#gid=404493967)
+
+### Neural network approaches for NLP / NLU / dialog / chatbots
+- [discussions with links to papers](http://forums.fast.ai/t/neural-network-approaches-for-nlp-nlu-dialog-chatbots/1802)
