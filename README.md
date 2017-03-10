@@ -65,3 +65,7 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 - [crop doctor](https://github.com/xxlatgh/Crop-doctor)
 - [crop doctor webapp](http://cropdoctor.herokuapp.com/index)
 - [stock ticker picker](http://stock-tickerchart.herokuapp.com/index)
+
+
+### The future of AI
+- [Rich Sutton 2016](https://www.youtube.com/watch?time_continue=1262&v=pD-FWetbvN8)
