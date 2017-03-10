@@ -50,3 +50,13 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 
 ### Search Interest
 - [GANs visual analogy |google](https://www.google.com/search?q=GANs+visual+analogy&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3iM2r0ePRAhXojVQKHWWYBo0Q_AUICSgC&biw=1277&bih=876#imgrc=Iud-AVyW_9P-oM:)
+
+### Apparel classificaiton
+- [apparel classification with style](http://people.ee.ethz.ch/~lbossard/projects/accv12/index.html)
+- [rapid cloth retrieval via deep learning and hierachical search](https://www.csie.ntu.edu.tw/~r01944012/icmr15_clothing.pdf)
+
+### Plant village benchmark
+- [plantix](http://www.networkedindia.com/2016/10/11/german-startup-peats-plant-disease-app-empowering-indian-farmers/)
+- [plantvillage](http://ai.business/2017/01/30/how-artificial-intelligence-and-machine-learning-can-help-farmers-diagnose-crop-diseases/)
+- [leaf disease classification](file:///Users/xinxin/Downloads/3289801.pdf)
+- [plant village](https://arxiv.org/pdf/1511.08060v2.pdf)
