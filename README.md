@@ -58,5 +58,9 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 ### Plant village benchmark
 - [plantix](http://www.networkedindia.com/2016/10/11/german-startup-peats-plant-disease-app-empowering-indian-farmers/)
 - [plantvillage](http://ai.business/2017/01/30/how-artificial-intelligence-and-machine-learning-can-help-farmers-diagnose-crop-diseases/)
-- [leaf disease classification](file:///Users/xinxin/Downloads/3289801.pdf)
 - [plant village](https://arxiv.org/pdf/1511.08060v2.pdf)
+
+### My projects
+- [crop doctor](https://github.com/xxlatgh/Crop-doctor)
+- [crop doctor webapp](http://cropdoctor.herokuapp.com/index)
+- [stock ticker picker](http://stock-tickerchart.herokuapp.com/index)
