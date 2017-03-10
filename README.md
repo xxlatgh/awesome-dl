@@ -9,6 +9,7 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
   * [AI research](#ai-research)
   * [Neural network approaches for NLP / NLU / dialog / chatbots](#neural-network-approaches-for-nlp-nlu-dialog-chatbots)
   * [General News](#general-news)
+  * [Search Interest](#search-interest)
 
 ## image sythesis
 
@@ -20,11 +21,14 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 - [experiment starting point neural-style-initialization]( https://gist.github.com/aizvorski/6dee41c61376200014b92ef48480ab15)  
 - [experiment with different optimizer](https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b#.k91dey4is)
 - [an implementation of optimizer experiment](https://github.com/slavivanov/Style-Tranfer)
+- [Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](https://github.com/chuanli11/CNNMRF)
 
 ### GANs
 - [an intuitive understanding of GANs](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.lp1edlkay)
 - [GANs in 50 lines](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.gtwdau6fg)
--[GANs in 50 lines implementation](https://github.com/devnag/pytorch-generative-adversarial-networks)
+- [GANs in 50 lines implementation](https://github.com/devnag/pytorch-generative-adversarial-networks)
+- [Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf)
+- [DCGan](https://github.com/Newmu/dcgan_code)
 
 ### WGANs
 - [ Wasserstein distance Jupyter notebook](https://github.com/vincentherrmann/wasserstein-notebook/blob/master/Wasserstein_Kantorovich.ipynb)
@@ -43,3 +47,6 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 
 ### General news
 - [abundance 360](http://www.diamandis.com/blog/archive)
+
+### Search Interest
+- [GANs visual analogy |google](https://www.google.com/search?q=GANs+visual+analogy&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3iM2r0ePRAhXojVQKHWWYBo0Q_AUICSgC&biw=1277&bih=876#imgrc=Iud-AVyW_9P-oM:)
