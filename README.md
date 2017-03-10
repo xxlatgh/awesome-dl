@@ -15,6 +15,7 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 
 ## CNN
 - [vgg16 model summary](https://s3-us-west-2.amazonaws.com/temptosync/VGG16.png)
+- [deep learning basic summary](https://github.com/rodgzilla/Deep-learning-presentation/blob/master/slides_dl.pdf)
 
 ## image sythesis
 ### neural style transfer
