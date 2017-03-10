@@ -3,6 +3,7 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 
 # Table of Content
 - [Image synthesis](#image-sythesis)
+  * [CNN](#cnn)
   * [neural style transfer](#neural-style-transfer)
   * [GANs](#gans)
   * [WGANs](#wgans)
@@ -11,8 +12,11 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
   * [General News](#general-news)
   * [Search Interest](#search-interest)
 
-## image sythesis
 
+## CNN
+- [vgg16 model summary](https://s3-us-west-2.amazonaws.com/temptosync/VGG16.png)
+
+## image sythesis
 ### neural style transfer
 - [curating fastai experiments](http://forums.fast.ai/t/curating-lesson-8-experiments/1783)
 - [tiling texture images](http://forums.fast.ai/t/tiling-texture-images/1865)
