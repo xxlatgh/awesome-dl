@@ -14,6 +14,7 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 ## image sythesis
 
 ### neural style transfer
+- [curating fastai experiments](http://forums.fast.ai/t/curating-lesson-8-experiments/1783)
 - [tiling texture images](http://forums.fast.ai/t/tiling-texture-images/1865)
 - [Neural Style Transfer & Neural Doodles](https://github.com/titu1994/Neural-Style-Transfer)
 - [An implementation of neural style transfer](https://github.com/MatthewKleinsmith/fast-ai-MOOC/blob/master/neural-style-AR.ipynb)
