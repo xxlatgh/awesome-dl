@@ -11,7 +11,7 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
   * [Neural network approaches for NLP / NLU / dialog / chatbots](#neural-network-approaches-for-nlp-nlu-dialog-chatbots)
   * [General News](#general-news)
   * [Search Interest](#search-interest)
-
+  * [basic](#basic)
 
 ## CNN
 - [vgg16 model summary](https://s3-us-west-2.amazonaws.com/temptosync/VGG16.png)
@@ -71,6 +71,8 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 - [crop doctor webapp](http://cropdoctor.herokuapp.com/index)
 - [stock ticker picker](http://stock-tickerchart.herokuapp.com/index)
 
+### basic
+- [mathematical notions](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm)
 
-### The future of AI
+### AI talks
 - [Rich Sutton 2016](https://www.youtube.com/watch?time_continue=1262&v=pD-FWetbvN8)
