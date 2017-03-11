@@ -71,8 +71,19 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 - [crop doctor webapp](http://cropdoctor.herokuapp.com/index)
 - [stock ticker picker](http://stock-tickerchart.herokuapp.com/index)
 
-### basic
-- [mathematical notions](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm)
+### basic concepts
+Important concepts in machine learning, deep learning and math.
+- [Deep Learning Glossary](http://wiki.fast.ai/index.php/Deep_Learning_Glossary) - glossary of concepts related to Deep Learning
+
+- [Gradient Descent](http://wiki.fast.ai/index.php/Gradient_Descent) - Gradient descent, stochastic gradient descent (SGD), and optimizing cost functions
+- [Log Loss](http://wiki.fast.ai/index.php/Log_Loss) - review of log loss and cross-entropy
+- [Linear Algebra for Deep Learning](http://wiki.fast.ai/index.php/Linear_Algebra_for_Deep_Learning) - review of basic Linear Algebra concepts used in Deep Learning.
+- [Calculus for Deep Learning](http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning) - review of basic Calculus concepts used in Deep Learning.
+- [Mathematical Notation](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm) - primer/cheatsheet on math symbols
+- [Linear Regression](http://wiki.fast.ai/index.php/Linear_Regression) - Intro to linear regression with code examples
+- [Logistic Regression](http://wiki.fast.ai/index.php/Logistic_Regression) - Intro to logistic regression with code examples
+- [Neural Networks](http://wiki.fast.ai/index.php/Neural_Networks) - Intro to neural networks and backpropagation with code examples
+
 
 ### AI talks
 - [Rich Sutton 2016](https://www.youtube.com/watch?time_continue=1262&v=pD-FWetbvN8)
