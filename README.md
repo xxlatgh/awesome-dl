@@ -15,6 +15,7 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
   * [technique](#technique)
 
 ## CNN
+- [transposed convolution arithmetics](http://deeplearning.net/software/theano_versions/dev/tutorial/conv_arithmetic.html#transposed-convolution-arithmetic)
 - [vgg16 model summary](https://s3-us-west-2.amazonaws.com/temptosync/VGG16.png)
 - [deep learning basic summary](https://github.com/rodgzilla/Deep-learning-presentation/blob/master/slides_dl.pdf)
 
