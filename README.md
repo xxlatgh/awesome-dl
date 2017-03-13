@@ -14,6 +14,11 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
   * [basic](#basic)
   * [technique](#technique)
 
+## to dos
+- on aws spot instance: git clone https://github.com/jph00/part2
+
+## lesson 9
+- [tips for lesson 9](http://forums.fast.ai/t/tips-for-lesson-9-assignment/1909)
 
 ## application
 - [deep learning in regulated industry](http://www.datasciencecentral.com/profiles/blogs/deep-learning-lets-regulated-industries-refocus-on-accuracy)
