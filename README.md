@@ -12,6 +12,7 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
   * [General News](#general-news)
   * [Search Interest](#search-interest)
   * [basic](#basic)
+  * [technique](#technique)
 
 ## CNN
 - [vgg16 model summary](https://s3-us-west-2.amazonaws.com/temptosync/VGG16.png)
@@ -87,3 +88,6 @@ Important concepts in machine learning, deep learning and math.
 
 ### AI talks
 - [Rich Sutton 2016](https://www.youtube.com/watch?time_continue=1262&v=pD-FWetbvN8)
+
+### technique
+- [storing processed image as bcolz](http://forums.fast.ai/t/lesson-9-discussion/1627/26) - I don't like to store processed images as jpegs, since each processing step is going to introduce more lossy compression artifacts.
