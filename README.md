@@ -14,6 +14,11 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
   * [basic](#basic)
   * [technique](#technique)
 
+
+## application
+- [deep learning in regulated industry](http://www.datasciencecentral.com/profiles/blogs/deep-learning-lets-regulated-industries-refocus-on-accuracy)
+- [Equifax And SAS Leverage AI And Deep Learning To Improve Consumer Access To Credit](https://www.forbes.com/sites/gilpress/2017/02/20/equifax-and-sas-leverage-ai-and-deep-learning-to-improve-consumer-access-to-credit/2/#614a96c7f690)
+
 ## CNN
 - [transposed convolution arithmetics](http://deeplearning.net/software/theano_versions/dev/tutorial/conv_arithmetic.html#transposed-convolution-arithmetic)
 - [vgg16 model summary](https://s3-us-west-2.amazonaws.com/temptosync/VGG16.png)
