@@ -104,4 +104,6 @@ Important concepts in machine learning, deep learning and math.
 
 ### technique
 - [storing processed image as bcolz](http://forums.fast.ai/t/lesson-9-discussion/1627/26) - I don't like to store processed images as jpegs, since each processing step is going to introduce more lossy compression artifacts.
-- [use axel to speed up downloading](http://forums.fast.ai/t/lesson-8-discussion/1522/6) - axel -n 10 www.address.com 
+- [use axel to speed up downloading](http://forums.fast.ai/t/lesson-8-discussion/1522/6) - axel -n 10 www.address.com
+- [managing large dataset in memory and on disk](http://forums.fast.ai/t/managing-large-datasets-in-memory-and-on-disk/1412/3)
+- [imagenet at academic torrent](http://academictorrents.com/details/a306397ccf9c2ead27155983c254227c0fd938e2)
