@@ -14,11 +14,21 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
   * [basic](#basic)
   * [technique](#technique)
 
-## to dos
-- on aws spot instance: git clone https://github.com/jph00/part2
+
+### WGANs
+- [ Wasserstein distance Jupyter notebook](https://github.com/vincentherrmann/wasserstein-notebook/blob/master/Wasserstein_Kantorovich.ipynb)
+- [Train a WGAN on the MNIST dataset](https://github.com/bobchennan/keras-contrib/blob/master/examples/mnist_wgan.py)
+- [Wasserstein GAN and the Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
+- [Read-through: Wasserstein GAN](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
+- [Wasserstein GAN paper](https://arxiv.org/abs/1701.07875)
+- [WGAN1](https://www.facebook.com/groups/675606912596390/permalink/722401081250306/)
+- [WGAN2](https://www.facebook.com/groups/675606912596390/permalink/722898947867186/)
+- [LSUN data](http://lsun.cs.princeton.edu/2016/)
 
 ## lesson 9
 - [tips for lesson 9](http://forums.fast.ai/t/tips-for-lesson-9-assignment/1909)
+- [keras implementation of common models](https://keras.io/applications/#vgg16)
+- on aws spot instance: git clone https://github.com/jph00/part2
 
 ## application
 - [deep learning in regulated industry](http://www.datasciencecentral.com/profiles/blogs/deep-learning-lets-regulated-industries-refocus-on-accuracy)
@@ -48,14 +58,6 @@ A curated list of deep learning resource and projects inspired by @sindresorhus'
 - [Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf)
 - [DCGan](https://github.com/Newmu/dcgan_code)
 
-### WGANs
-- [ Wasserstein distance Jupyter notebook](https://github.com/vincentherrmann/wasserstein-notebook/blob/master/Wasserstein_Kantorovich.ipynb)
-- [Train a WGAN on the MNIST dataset](https://github.com/bobchennan/keras-contrib/blob/master/examples/mnist_wgan.py)
-- [Wasserstein GAN and the Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
-- [Read-through: Wasserstein GAN](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
-- [Wasserstein GAN paper](https://arxiv.org/abs/1701.07875)
-- [WGAN1](https://www.facebook.com/groups/675606912596390/permalink/722401081250306/)
-- [WGAN2](https://www.facebook.com/groups/675606912596390/permalink/722898947867186/)
 
 ### AI research
 - [OpenAI paper curation](https://docs.google.com/spreadsheets/d/1xej5Nca2xUUtrZ1GCyPjFMqI9ZgNq_OhgnTxOOMQ2js/edit#gid=404493967)
